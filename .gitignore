@@ -1,0 +1,4 @@
+*.o
+.output
+greeter
+vmlinux.h
