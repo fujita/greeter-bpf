@@ -27,3 +27,5 @@ Throughput (requests per second)
 |     bpf|246025|485305|906581|453259|
 | grpc-go|227356|331013|301632|287175|
 |   async|231914|450984|441548|415015|
+
+![Throughput (requests per second)](https://miro.medium.com/max/700/1*k1WbgZK5DGdYgxapebG_Gg.png)
